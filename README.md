@@ -11,4 +11,4 @@ Podrejeno se funkcionalnost razširi z dodajanjem možnosti nastavitve delovnega
 
 
 
->**MATCO logotip** predpona je dodano kot posvetilo priznanemu slovenskemu nožarju Mateju, umetniku med obrtniki njegovega stana.
+>**MATCO logotip** predpona je dodano kot posvetilo priznanemu slovenskemu nožarju Mateju, umetniku med obrtniki njegovega stanu.
