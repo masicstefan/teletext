@@ -10,4 +10,5 @@ Iz uporabniške perspektive je ideja naloge oblikovati aplikacijo, ki uporabniku
 Podrejeno se funkcionalnost razširi z dodajanjem možnosti nastavitve delovnega okolja: vklop iskalnika (Search), izbira različnih »retro« prikazov ter morebitna povezava z izbrano agencijsko hišo (npr. STA) in vpeljavo sporočilnega sistema (npr. RabbitMQ).
 
 
->MATCO je logotip priznanega slovenskega nožarja Mateja, umetnika med obrtniki.
+
+>**MATCO logotip** predpona je dodano kot posvetilo priznanemu slovenskemu nožarju Mateju, umetniku med obrtniki njegovega stana.
