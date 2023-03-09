@@ -1,5 +1,5 @@
 
-#MATCO Teletext
+# MATCO Teletext
 
 Spletna stran imenovana **MATCO Teletekst** (igrivo TELE text) kot simulacija znane funkcionalnosti (John Adams, 1970) je prisotne pri vseh velikih agencijah in televizijskih hišah (CEEFAX, 1974) in predstavljaprvi interaktivni televizijski servis.
 
