@@ -5,5 +5,5 @@ http.createServer(function (request, response) {
    response.end('MMC Teletext MATCO\n');
 }).listen(8081);
 
-// Console will print the message
+// Izpis v konzoli.
 console.log('Server running at http://127.0.0.1:8081/');

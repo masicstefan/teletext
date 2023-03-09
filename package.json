@@ -1,7 +1,7 @@
 {
   "name": "teletext",
   "version": "1.0.0",
-  "description": "MATCO Teletext",
+  "description": "MATCO Teletekst",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
